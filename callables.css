@@ -5,3 +5,10 @@ body {
     animation-duration: 5s;
     animation-iteration-count: infinite;
 }
+
+body {
+    background-color: bisque;
+    animation-name: example;
+    animation-duration: 2ms;
+    animation-iteration-count: infinite;
+}
